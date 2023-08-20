@@ -1,6 +1,6 @@
 # ZS-Denoiser-HREM
 
-This repository of Pytorch implementation of our manuscript "Zero-shot Image Denoising for High-Resolution Electron Microscopy"
+This repository is Pytorch implementation of our manuscript "Zero-shot Image Denoising for High-Resolution Electron Microscopy"
 
  ![Pipeline_ZS_Denoiser-HREM](Fig/Pipeline.png)
  Fig. 1: The pipeline of ZS-Denoiser HREM
