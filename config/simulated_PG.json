@@ -8,7 +8,7 @@
     "train":{
         "gpu": 0,
 		"lr": 1e-4,
-		"epoch": 500,
+		"epoch": 1500,
 		"batch_size": 10,
         "patch_size": 256,
         "s":2,
