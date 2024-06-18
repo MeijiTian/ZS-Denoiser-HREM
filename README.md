@@ -11,6 +11,7 @@ This repository is Pytorch implementation of our manuscript "Zero-shot Image Den
 ---
 
 ## Simulated HREM Denoising Example
+ The simulated TEM dataset released by Mohan *et al*. [[Github](https://github.com/sreyas-mohan/electron-microscopy-denoising)] which consists of approximate 18000 simulated images.
  ![Simulated_Denoising](Fig/res_fig1.png)
  Fig. 2: Comparison of denoising results of simulated Pt/CeO2 catalyst corrputed with Poisson-Gaussain noise.
 
