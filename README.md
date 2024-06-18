@@ -26,8 +26,31 @@ To run this project, you will need the following packages:
   - Pytorch
   - Scikit-image
   - Tiffile, tqdm, numpy and other packages.
+  
+## 2. File Tree
 
-## 2. Train the ZS-Denoiser on simulated HREM image
+```text
+ZS-Denoiser-HREM
+│  dataset.py 
+│  netarch.py             
+│  README.md
+│  train.py               # train zero-shot denoising network
+│  utils.py
+│          
+├─config
+│      simulated_PG.json  # configuration file
+│      
+└─demo_data
+     └─PtCeO2_simulated   # simulated data for numerical experiments
+            1.tif
+            2.tif
+            3.tif
+            4.tif
+            5.tif
+
+```
+
+## 3. Train the ZS-Denoiser on simulated HREM image
 
 To train the denoising model for simulated HREM image corrupted with Poission-Gaussain noise ($a = 0.05, b = 0.02$), you can run the following command in your terminal:
 
@@ -35,8 +58,8 @@ To train the denoising model for simulated HREM image corrupted with Poission-Ga
 python train.py -image_path demo_data/PtCeO2_simulated/1.tif -a 0.05 -b 0.02
 ```
 
-## 3. License
+## 4. License
 
 This code is available for non-commercial research and education purposes only. It is not allowed to be reproduced, exchanged, sold, or used for profit.
 
-## 4. Citation
+## 5. Citation
