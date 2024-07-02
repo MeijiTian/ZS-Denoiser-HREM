@@ -64,3 +64,16 @@ python train.py -image_path demo_data/PtCeO2_simulated/1.tif -a 0.05 -b 0.02
 This code is available for non-commercial research and education purposes only. It is not allowed to be reproduced, exchanged, sold, or used for profit.
 
 ## 5. Citation
+If you find our work useful in your research, please site:
+
+```
+@misc{tian2024zeroshotimagedenoisinghighresolution,
+      title={Zero-Shot Image Denoising for High-Resolution Electron Microscopy}, 
+      author={Xuanyu Tian and Zhuoya Dong and Xiyue Lin and Yue Gao and Hongjiang Wei and Yanhang Ma and Jingyi Yu and Yuyao Zhang},
+      year={2024},
+      eprint={2406.14264},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2406.14264}, 
+}
+```
