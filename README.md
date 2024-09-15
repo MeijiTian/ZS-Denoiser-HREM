@@ -6,7 +6,7 @@ This repository is Pytorch implementation of our manuscript "Zero-shot Image Den
 
 
   ![Pipeline_ZS_Denoiser-HREM](Fig/Pipeline.png)
-  Fig. 1: The pipeline of ZS-Denoiser HREM 
+  Fig. 1: The pipeline of ZS-Denoiser HREM.
 
 ---
 
