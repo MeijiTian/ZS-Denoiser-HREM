@@ -1,6 +1,6 @@
 # ZS-Denoiser-HREM
 
-This repository is Pytorch implementation of our manuscript "Zero-shot Image Denoising for High-Resolution Electron Microscopy"
+This repository is Pytorch implementation of our manuscript "Zero-shot Image Denoising for High-Resolution Electron Microscopy" [[ArXiv](https://arxiv.org/abs/2406.14264)][[IEEE Xplore](https://ieeexplore.ieee.org/document/10675590)].
 
 ## Pipeline of ZS-Denoiser 
 
@@ -67,13 +67,15 @@ This code is available for non-commercial research and education purposes only. 
 If you find our work useful in your research, please site:
 
 ```
-@misc{tian2024zeroshotimagedenoisinghighresolution,
-      title={Zero-Shot Image Denoising for High-Resolution Electron Microscopy}, 
-      author={Xuanyu Tian and Zhuoya Dong and Xiyue Lin and Yue Gao and Hongjiang Wei and Yanhang Ma and Jingyi Yu and Yuyao Zhang},
-      year={2024},
-      eprint={2406.14264},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2406.14264}, 
-}
+@ARTICLE{10675590,
+  author={Tian, Xuanyu and Dong, Zhuoya and Lin, Xiyue and Gao, Yue and Wei, Hongjiang and Ma, Yanhang and Yu, Jingyi and Zhang, Yuyao},
+  journal={IEEE Transactions on Computational Imaging}, 
+  title={Zero-Shot Image Denoising for High-Resolution Electron Microscopy}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Noise measurement;Noise reduction;Training;Image denoising;Signal to noise ratio;Electrons;Imaging;Zero-shot;Electron Microscopy;Denoising;Self-supervised},
+  doi={10.1109/TCI.2024.3458411}}
+
 ```
