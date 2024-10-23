@@ -72,10 +72,10 @@ If you find our work useful in your research, please site:
   journal={IEEE Transactions on Computational Imaging}, 
   title={Zero-Shot Image Denoising for High-Resolution Electron Microscopy}, 
   year={2024},
-  volume={},
+  volume={10},
   number={},
-  pages={1-14},
-  keywords={Noise measurement;Noise reduction;Training;Image denoising;Signal to noise ratio;Electrons;Imaging;Zero-shot;Electron Microscopy;Denoising;Self-supervised},
+  pages={1462-1475},
+  keywords={Noise measurement;Noise reduction;Training;Image denoising;Signal to noise ratio;Electrons;Imaging;Denoising;electron microscopy;self-supervised;zero-shot},
   doi={10.1109/TCI.2024.3458411}}
 
 ```
